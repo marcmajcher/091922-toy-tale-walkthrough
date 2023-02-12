@@ -9,7 +9,7 @@
     "tokenize": "^0.0.3"
   },
   "devDependencies": {
-    "json-server": "^0.15.1"
+    "json-server": "^0.17.1"
   },
   "scripts": {
     "start": "react-scripts start",
